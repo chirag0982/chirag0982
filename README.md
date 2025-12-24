@@ -59,4 +59,4 @@ intelligence** to **automation-heavy enterprise workflows**.
 - **AI Email Assistant** — Multi-model email automation platform  
 - **Recruitment Tracker** — Resume parsing & candidate scoring system  
 
-(Repositories pinned below 👇)
+
